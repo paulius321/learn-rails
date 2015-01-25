@@ -21,7 +21,7 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Excited to learn Rails with help from the RailsApps project!
 
 
 Please feel free to use a different markup language if you do not plan to run
